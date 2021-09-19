@@ -16,3 +16,16 @@ The core data set is related to the two-year historical log corresponding to yea
 
 - Python Frameworks (NumPy, Pytorch, Pandas, Matplotlib, etc.)
 - Multi-layer Perceptron
+
+
+# References
+
+- To know the history of deep learning, check https://www.youtube.com/watch?v=ht6fLrar91U
+- For a more mathematical intuition, check http://neuralnetworksanddeeplearning.com/
+- More about loss funtions, check https://machinelearningmastery.com/loss-and-loss-functions-for-training-deep-learning-neural-networks/
+- Playlist: cs 231n, check https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv 
+- For more activation functions, check https://stats.stackexchange.com/questions/115258/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-con
+- For learning rate tuning, check https://www.freecodecamp.org/news/how-to-pick-the-best-learning-rate-for-your-machine-learning-project-9c28865039a8/
+- For more basic understanding, check http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
+
+# Happy Learning :-)
