@@ -28,4 +28,4 @@ The core data set is related to the two-year historical log corresponding to yea
 - For learning rate tuning, check https://www.freecodecamp.org/news/how-to-pick-the-best-learning-rate-for-your-machine-learning-project-9c28865039a8/
 - For more basic understanding, check http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
 
-# Happy Learning :-)
+### Happy Learning :-)
